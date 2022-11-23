@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/journey-app/static/css/main.abc2394d.css",
+    "main.js": "/journey-app/static/js/main.5ead815c.js",
+    "static/js/787.80016790.chunk.js": "/journey-app/static/js/787.80016790.chunk.js",
+    "index.html": "/journey-app/index.html",
+    "main.abc2394d.css.map": "/journey-app/static/css/main.abc2394d.css.map",
+    "main.5ead815c.js.map": "/journey-app/static/js/main.5ead815c.js.map",
+    "787.80016790.chunk.js.map": "/journey-app/static/js/787.80016790.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abc2394d.css",
+    "static/js/main.5ead815c.js"
+  ]
+}
